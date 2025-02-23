@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 import os
-import emoji
 from io import BytesIO
 
 # setup app
